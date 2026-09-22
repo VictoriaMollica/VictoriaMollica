@@ -1,3 +1,5 @@
+## <img src="keyblade.gif" width="170" valign="middle">
+
 ## Hi there 👋
 
 <!--
