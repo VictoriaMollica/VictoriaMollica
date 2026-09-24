@@ -3,7 +3,7 @@
 ## Hi there 👋
 <img src="simboloheart.jpg" >
 <img src="sorayes.gif">
-<img src="simboloheart-Photoroom">
+<img src="simboloheart-Photoroom.jpg">
 <!--
 **VictoriaMollica/VictoriaMollica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
