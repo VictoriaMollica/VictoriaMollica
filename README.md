@@ -1,7 +1,8 @@
 ## <img src="keyblade.gif" width="170" valign="middle">
 
 ## Hi there 👋
-
+<img src="simboloheart.jpg" >
+<img src="sorayes.gif">
 <!--
 **VictoriaMollica/VictoriaMollica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
