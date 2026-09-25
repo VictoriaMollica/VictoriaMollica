@@ -132,17 +132,8 @@
 
 <div align="center">
 
-  ### ✉️ Let's connect and build something meaningful!
-
-  <a href="https://www.linkedin.com/in/vict%C3%B3ria-macedo-mollica/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vickmollica1@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
   <br><br>
   <img src="simboloheart-Photoroom.png" width="55" alt="Heart Symbol Without Background"/><br>
-  <sub><i>"Our hearts are connected."</i></sub>
+  <sub><i>"No matter how far apart we are, our hearts remain connected."</i></sub>
 
 </div>
