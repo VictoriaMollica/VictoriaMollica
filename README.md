@@ -3,7 +3,7 @@
 ## Hi there 👋
 <img src="simboloheart.jpg" >
 <img src="sorayes.gif">
-<img src="simboloheart-Photoroom.jpg">
+<img src="simboloheart-Photoroom.png">
 <img src="mickeykh.gif">
 <img src="soraeroxas.gif">
 <!--
