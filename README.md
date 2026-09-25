@@ -4,6 +4,8 @@
 <img src="simboloheart.jpg" >
 <img src="sorayes.gif">
 <img src="simboloheart-Photoroom.jpg">
+<img src="mickeykh.gif">
+<img src="soraeroxas.gif">
 <!--
 **VictoriaMollica/VictoriaMollica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
