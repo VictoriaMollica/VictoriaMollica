@@ -1,9 +1,6 @@
-<img src="pateta.png">
-<img src="pato.png">
-
-
-
 <div align="center">
+
+  <img src="keyblade.gif" width="240" alt="Keyblade Focus"/>
 
   <h1>
     <img src="simboloheart-Photoroom.png" width="38" valign="middle" alt="Heart Symbol"/>
@@ -15,10 +12,8 @@
     <i>✨ May your heart be your guiding key ✨</i>
   </p>
 
-  <img src="keyblade.gif" width="240" alt="Keyblade Focus"/>
-
   <p align="center">
-    <b>Data Analyst</b> 🗝️ | <b>Aspiring Product Owner & Product Manager</b> 🧭 | <b>Project Organization</b> 🛡️
+    <b>Data Analyst</b> 🗝️ | <b>Aspiring Product Owner & Product Manager</b> 🧭 | <b>Project Strategist</b> 🛡️
   </p>
 
   <p align="center">
@@ -58,7 +53,7 @@
 
 ---
 
-## ⚔️ Keyblade Inventory // Skills & Core Competencies
+## <img src="pateta-Photoroom.png" width="60" valign="middle" alt="Goofy"/> Keyblade Inventory // Skills & Core Competencies
 
 <table>
   <tr>
@@ -123,7 +118,7 @@
 
 <div align="center">
 
-  ### ⚔️ Dual Wielding: Analytical Intelligence & Strategic Management
+  ### <img src="pato.png" width="38" valign="middle" alt="Donald Duck"/> Dual Wielding: Analytical Intelligence & Strategic Management
 
   <img src="soraeroxas.gif" width="460" alt="Sora and Roxas"/>
 
